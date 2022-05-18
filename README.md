@@ -6,4 +6,4 @@ Un Bloc-Note toujours en avant de toutes les fenêtres pour noter, copier, colle
 ![Image :](https://cdn.discordapp.com/attachments/953635864087519332/976516238647894127/unknown.png)
 
 
-`Utilisez ce logiciel comme bon vous semble, vous pouvez venir me faire coucou sur discord sur Amauury#3218`
+`Utilisez ce logiciel comme bon vous semble, vous pouvez venir me faire coucou sur discord sur Amaury#3218`
